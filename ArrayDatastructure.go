@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func PrintArray() {
 	var a = [1]uint8{}
 	fmt.Print(a)
 }
